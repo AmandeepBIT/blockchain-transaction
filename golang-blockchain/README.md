@@ -1,11 +1,11 @@
-# Golang Blockchain
+# BASIC BLOCKCHAIN FLOW
 
-### In this tutorial, we add transactions to our blockchain and we talk about inputs and outputs.
+This repo is related to the basic block chain with transaction flow. 
+In which you can create the blockchain for one user and make the transactions as per need
 
-## Run `go run main.go` to run the app, run `go build main.go` to build an executable file.
+## INSTALLATION SETUP
 
-### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/HNID8W2jgRM). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
-
-### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
-
-### Our [Twitter](https://twitter.com/TensorProgram), our [facebook](https://www.facebook.com/Tensor-Programming-1197847143611799/) and our [Steemit](https://steemit.com/@tensor).
+- Just install the Go https://go.dev/dl/ link as per your OS
+- Then clone the project and go insude the golang-blockchain folder
+- Then delele the go.sum file and run 'go get' command
+- Then run 'go run main.go' command
